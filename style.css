@@ -34,15 +34,15 @@
     }
 
     .music-links {
-        margin: 10% 10% 10% 5%;
+        margin: 8% 8% 8% 2%;
         text-align: left;
         font-family: monospace;
-        font-size: larger;
+        font-size: 18px;
         opacity: 1;
         color:#ff66c4;
         background-color: #000000;
         list-style-type: none;
-        font-weight: 500;
+        font-weight: 400;
     }
     
     .links-space {
