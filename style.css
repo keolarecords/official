@@ -19,11 +19,11 @@
     
     .music {
         margin: 8% 10% 0% 0%;
-        padding: 10px;
+        padding: 5px;
         letter-spacing: -1px;
         width: 80vw;
         min-height: 100vh;
-        border: 20px double #fd94d5;
+        border: 10px double #fd94d5;
         background-color: #000000;
         color:#eccfe1;
     }
@@ -119,5 +119,6 @@
  
     
   
+
 
     
