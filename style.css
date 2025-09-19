@@ -8,8 +8,8 @@
        padding: 10%;
     }
     
-    .intro-image {
-        background-image: url("backdrop.png");
+    .intro-image, .artist-info {
+        background-image: url("purpledrop.jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -19,18 +19,13 @@
     
     .music {
         margin: 8% 10% 0% 0%;
-        /*background-image: url("krbackdrop.jpg");*/
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-attachment: fixed;
-        /*opacity: .9;*/
         padding: 10px;
         letter-spacing: -1px;
         width: 80vw;
         min-height: 100vh;
-        border: 2px solid #ffdb10;
-        background-color: black;
+        border: 20px double #fd94d5;
+        background-color: #000000;
+        color:#eccfe1;
     }
 
     .music-links {
@@ -39,7 +34,8 @@
         font-family: monospace;
         font-size: larger;
         opacity: 1;
-        color:rgb(255, 255, 255);
+        color:#ff66c4;
+        background-color: #000000;
         list-style-type: none;
         font-weight: 500;
     }
@@ -56,7 +52,7 @@
     .links-sb {
         list-style-type: none;
         font-weight: 500;
-        color: #fd73e6;
+        color: #ff66c4;
         padding-bottom: 10px;
     }
 
@@ -78,14 +74,13 @@
 
     a:hover {
         text-decoration: none;
-        color: rgb(57, 199, 255); 
+        color: #fd94d5; 
         border: 2px solid #fc7ff200;
     }
 
     .artist-info {
         margin: 5%;
         padding: 5%;
-        background-color: rgb(246, 237, 255);
     }
 
     .artist-gallery {
@@ -94,11 +89,11 @@
         float: left;
         margin: 10px 10px 0 0;
         padding: 8px;
-        border: 2px solid #ec1ce2;
+        border: 2px solid #fd94d5;
     }
 
     .return-link {
-        background-color: rgb(246, 237, 255);
+        background-color: #f5eace;
         opacity: 0.9;
         padding: 1%;
         margin: 0% 5% 0% 5%;
@@ -115,7 +110,7 @@
 
     .site-footer {
         text-align: center;
-        color: rgba(255, 255, 255, 0.767);
+        color: #f5eace;
         padding-top: 20px;
         font-size: 15px;
         margin-top: 20%;
