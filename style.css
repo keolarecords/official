@@ -89,11 +89,11 @@
     }
 
     .artist-gallery {
-        max-width: 125px;
+        max-width: 115px;
         max-height: auto;
         float: left;
         margin: 10px 10px 0 0;
-        padding: 2px;
+        padding: 8px;
         border: 2px solid #ec1ce2;
     }
 
