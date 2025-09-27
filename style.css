@@ -2,7 +2,7 @@
 
     /* styles.css */
 
-     
+
 
     body {
        padding: 10%;
@@ -11,13 +11,14 @@
     
     .intro-image, .artist-info {
         background-image: url("purpledrop.jpg");
-        background-position: center center;
+        background-position: right bottom;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
         background-color: rgb(0, 0, 0);
     }
     
+
     .music {
         margin: 8% 10% 0% 0%;
         padding: 5px;
@@ -29,10 +30,17 @@
         color:#eccfe1;
     }
 
-    .music h5 {
-        color:#530b38;
+    .music li {
+        padding: 5px 0 5px 0;
     }
 
+    .music h5 {
+        color:#E2A9F1;
+    }
+
+    figcaption {
+        font-size: small;
+    }
     .music-links {
         margin: 8% 8% 8% 2%;
         text-align: left;
@@ -95,8 +103,8 @@
     .artist-gallery {
         max-width: 115px;
         max-height: auto;
-        float: left;
-        margin: 10px 10px 0 0;
+        /*float: right;*/
+        margin: 10px 25px 10px 0;
         padding: 8px;
         border: 2px solid #E2A9F1;
     }
