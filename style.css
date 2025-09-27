@@ -22,7 +22,7 @@
     .music {
         margin: 8% 10% 0% 0%;
         padding: 5px;
-        letter-spacing: -1px;
+        letter-spacing: .3px;
         width: 80vw;
         min-height: 100vh;
         border: 10px double #E2A9F1;
