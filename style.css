@@ -24,7 +24,7 @@
         letter-spacing: -1px;
         width: 80vw;
         min-height: 100vh;
-        border: 10px double #fd94d5;
+        border: 10px double #E2A9F1;
         background-color: #000000;
         color:#eccfe1;
     }
@@ -79,7 +79,7 @@
 
     a:hover {
         text-decoration: none;
-        color: #fd94d5; 
+        color: #E2A9F1; 
         border: 2px solid #fc7ff200;
     }
 
@@ -98,7 +98,7 @@
         float: left;
         margin: 10px 10px 0 0;
         padding: 8px;
-        border: 2px solid #fd94d5;
+        border: 2px solid #E2A9F1;
     }
 
     .return-link {
@@ -128,5 +128,6 @@
  
     
   
+
 
     
