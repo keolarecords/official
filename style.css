@@ -109,6 +109,12 @@
         border: 2px solid #E2A9F1;
     }
 
+    video {
+        margin: 1%;
+        max-width: 280px;
+        max-height: 200px;
+    }
+
     .return-link {
         background-color: #f5eace;
         opacity: 0.9;
